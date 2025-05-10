@@ -1,4 +1,4 @@
-# 💪 HealthReel – Get Rewarded for Getting Healthier
+# 💪 Elixir – Get Rewarded for Getting Healthier
 
 What if your fitness tracker also tracked your **rewards**?  
 **Elixir** is a smart health-fintech app that turns your daily fitness activities like GYM,  into points that can be redeemed with India’s top health brands. Because every rep, run, and routine should *earn* something back. 💸
