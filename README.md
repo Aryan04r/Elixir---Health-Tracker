@@ -30,7 +30,8 @@ What if your fitness tracker also tracked your **rewards**?
 - JWT Authentication 🔐
 - GitHub Actions (optional CI) 🛠️
 
-- 🤓 Why This Project?
-Because staying fit is not your goal, but my goal too. I strongly encourage my friends and family to get into fitness. So why not join hands to fulfil this mission!
+
+Why This Project?
+Because staying fit is not just your goal, but my goal too. And I strongly encourage my friends and family to get into fitness. So why not join hands to fulfil this mission!
 
 Made with 💚 by Aryan R
