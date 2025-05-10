@@ -17,8 +17,8 @@ What if your fitness tracker also tracked your **rewards**?
 
 ## 🖼️ UI Preview
 
-<img src="assets/fastapi-ui1.png" alt="FastAPI UI" width="600"/>
-<img src="assets/fastapi-ui2.png" alt="FastAPI UI" width="600"/>
+<img src="assets/fastapi-ui1.jpg" alt="FastAPI UI" width="600"/>
+<img src="assets/fastapi-ui2.jpg" alt="FastAPI UI" width="600"/>
 
 ---
 
