@@ -1,0 +1,11 @@
+fastapi>=0.68.0
+uvicorn>=0.15.0
+sqlalchemy>=1.4.23
+pydantic>=1.8.2
+python-jose[cryptography]>=3.3.0
+passlib[bcrypt]>=1.7.4
+python-multipart>=0.0.5
+alembic>=1.7.1
+psycopg2-binary>=2.9.1
+python-dotenv>=0.19.0 
+SECRET_KEY=fcd2a780ad820af05e6611e3b5267df77d3ad00882879df9be52fdda8fa1c799
